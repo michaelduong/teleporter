@@ -1,0 +1,24 @@
+PODS:
+  - LFLiveKit (2.6)
+  - SVProgressHUD (2.2.5)
+  - TextAttributes (1.0)
+
+DEPENDENCIES:
+  - LFLiveKit
+  - SVProgressHUD
+  - TextAttributes
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LFLiveKit
+    - SVProgressHUD
+    - TextAttributes
+
+SPEC CHECKSUMS:
+  LFLiveKit: 2219563721f8aa0f188effc3395a06e2d53b23f2
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TextAttributes: 45b2713a1d174c377d320b51129c304eac381638
+
+PODFILE CHECKSUM: e241f2d3018b82ff1e4ecde644770776205126f6
+
+COCOAPODS: 1.5.3
